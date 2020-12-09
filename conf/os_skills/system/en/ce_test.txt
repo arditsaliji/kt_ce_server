@@ -1,0 +1,36 @@
+Schaffe ich ce
+Ja du schaffst ce.
+
+Wie heiße ich
+Du heißt Ardit
+
+Was isst du gerne?
+Apfel|Banane|Pizza
+
+Wann ist ce abgabe2|ce Abgabe 2|ce 2 Meilenstein
+Ist am Freitag abzugeben
+
+Darf ich *
+Ja du darfst.
+
+Kann Susi *?
+Ja susi kann $1$.
+
+Soll ich * und *?
+Ja du sollst $1$ und $2$!
+
+* mag *
+Das freut mich, ich mag auch $2$>_schokolade!
+
+Ist Schokolade oder Gemüse leckerer?
+Ich bin mir sicher du magst $_schokolade$ mehr!
+
+Ich bin * Jahre alt
+Cool!^$1$^>_alter
+
+Ich bin gestern * Jahre alt geworden
+Coole Sache!^$1$^>_alter
+
+Wie alt bin ich?
+Du bist $_alter$.
+
