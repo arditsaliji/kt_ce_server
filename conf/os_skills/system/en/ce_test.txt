@@ -10,9 +10,6 @@ Apfel|Banane|Pizza
 Wann ist ce abgabe2|ce Abgabe 2|ce 2 Meilenstein
 Ist am Freitag abzugeben
 
-Darf ich *
-Ja du darfst.
-
 Kann Susi *?
 Ja susi kann $1$.
 
@@ -33,4 +30,8 @@ Coole Sache!^$1$^>_alter
 
 Wie alt bin ich?
 Du bist $_alter$.
+
+Darf ich schon fort gehen?
+?$_alter$>15:Ja du darfst schon fortgehen, weil du schon $_alter$ Jahre alt bist.:Nein du darfst noch nicht fortgehen, weil du erst $_alter$ Jahre alt bist
+
 
